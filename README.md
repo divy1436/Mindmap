@@ -3,7 +3,7 @@
 This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them. Please share this with your connections and direct queries and feedback to ## Connect with me
 # 🛡️ Cybersecurity Toolkit Repository
 
-Welcome to the **Cybersecurity Toolkit Repository** — a curated collection of tools, cheat sheets, mindmaps, and resources for learning, practicing, and mastering cybersecurity. Whether you're a beginner or a seasoned professional, this repository provides essential resources across a broad spectrum of cybersecurity domains.
+Welcome to the **Cybersecurity Toolkit Repository** — a curated collection of tools, cheat sheets, mindmaps, and resources for learning, practicing, and mastering cybersecurity. Whether you're a beginner or a seasoned professional, this repository provides essential resources across a broad spectrum of cybersecurity domains
 
 ---
 
